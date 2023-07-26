@@ -9,8 +9,4 @@
   🔭 I’m currently working on **open-source projects!**
 
   📫 How to reach me **dufourarthur.perso@gmail.com**
-
-  <a href="http://arthurdufour.com">  
-  		<img src="https://github-readme-stats.vercel.app/api?username=adufr&show_icons=true&count_private=true&custom_title=Arthur's+GitHub+Stats&theme=dracula" />  
-	</a>
 </div>
